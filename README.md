@@ -1,6 +1,8 @@
 # Strategy Pattern
 Sample problem featuring the strategy pattern.
 
+Strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it. 
+
 ## Task 1 - Reduce prices
 Welcome to Pizza<sup>2</sup>! Pizza<sup>2</sup> makes round pizzas for now. See for yourself by running the following command:
 
