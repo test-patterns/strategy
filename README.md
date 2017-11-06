@@ -13,8 +13,8 @@ Pizza<sup>2</sup> wants to expand to making square pizzas since Chicago style is
 
 ### UML
 
-![alt text](http://yuml.me/6f0fb475.png)
-[edit](http://yuml.me/edit/6f0fb475)
+![alt text](http://yuml.me/710841ee.png)
+[edit](http://yuml.me/edit/710841ee)
 
 ### Previous output
 
