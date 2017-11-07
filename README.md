@@ -1,14 +1,15 @@
 # Strategy Pattern
 Sample problem featuring the strategy pattern.
 
-Strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it. 
+Strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
 
 ## Task 1 - Reduce prices
 Welcome to Pizza<sup>2</sup>! Pizza<sup>2</sup> makes round pizzas for now. See for yourself by running the following command:
 
 ```
-python __main__.py -s round -l 8
+python strategy -s round -l 8
 ```
+
 Pizza<sup>2</sup> wants to expand to making square pizzas since Chicago style is all the fad these days. Implement the strategy design pattern to calculate the amount of dough needed to make a square pizza.
 
 ### UML
